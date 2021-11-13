@@ -8,4 +8,4 @@ Ferramentas usadas neste App:
 
 
 ### Imagem da tela Principal
-![]("/img/tela_principal.png")
+![](/img/tela_principal.png)
